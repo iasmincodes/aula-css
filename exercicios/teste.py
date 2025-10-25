@@ -1,0 +1,1 @@
+print("testando criar pastas no vscode + git bash")
